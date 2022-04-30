@@ -1,0 +1,15 @@
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\04_Aufgabe_Mengenberechnung.exe
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\04_Aufgabe_Mengenberechnung.deps.json
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\04_Aufgabe_Mengenberechnung.runtimeconfig.json
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\04_Aufgabe_Mengenberechnung.runtimeconfig.dev.json
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\04_Aufgabe_Mengenberechnung.dll
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\ref\04_Aufgabe_Mengenberechnung.dll
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\bin\Debug\net5.0\04_Aufgabe_Mengenberechnung.pdb
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.AssemblyInfoInputs.cache
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.AssemblyInfo.cs
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.csproj.CoreCompileInputs.cache
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.dll
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\ref\04_Aufgabe_Mengenberechnung.dll
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.pdb
+G:\Lernen\lutz\c#\04_Aufgabe_Mengenberechnung\obj\Debug\net5.0\04_Aufgabe_Mengenberechnung.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\Taschenrechner.exe
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\Taschenrechner.deps.json
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\Taschenrechner.runtimeconfig.json
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\Taschenrechner.runtimeconfig.dev.json
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\Taschenrechner.dll
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\ref\Taschenrechner.dll
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\bin\Debug\net5.0\Taschenrechner.pdb
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.AssemblyReference.cache
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfoInputs.cache
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfo.cs
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.CoreCompileInputs.cache
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
+G:\Lernen\lutz\lutz_lernen\C#\Taschenrechner\Sascha\Taschenrechner\obj\Debug\net5.0\Taschenrechner.genruntimeconfig.cache
