@@ -1,0 +1,12 @@
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\bin\Release\net5.0\01Model.deps.json
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\bin\Release\net5.0\01Model.dll
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\bin\Release\net5.0\ref\01Model.dll
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\bin\Release\net5.0\01Model.pdb
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.csproj.AssemblyReference.cache
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.AssemblyInfoInputs.cache
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.AssemblyInfo.cs
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.csproj.CoreCompileInputs.cache
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.dll
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\ref\01Model.dll
+C:\Users\jchrist\source\repos\Kursverwaltung\01Model\obj\Release\net5.0\01Model.pdb

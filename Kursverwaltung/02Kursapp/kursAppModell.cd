@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="_02Kursapp.Kursrepo">
+    <Position X="1" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAEAAAA=</HashCode>
+      <FileName>Kursrepo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_02Kursapp.Menu">
+    <Position X="5.5" Y="1" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADACAAAAAAAAAAQAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Consolas" Size="10" />
+</ClassDiagram>

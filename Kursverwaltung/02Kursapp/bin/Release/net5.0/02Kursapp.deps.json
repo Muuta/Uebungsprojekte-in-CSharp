@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "02Kursapp/1.0.0": {
+        "dependencies": {
+          "01Model": "1.0.0"
+        },
+        "runtime": {
+          "02Kursapp.dll": {}
+        }
+      },
+      "01Model/1.0.0": {
+        "runtime": {
+          "01Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02Kursapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
