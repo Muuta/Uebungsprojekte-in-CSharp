@@ -1,0 +1,16 @@
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\Events01.exe
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\Events01.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\Events01.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\Events01.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\Events01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\ref\Events01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Events01\bin\Debug\net5.0\Events01.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\ref\Events01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.genruntimeconfig.cache
+C:\Users\ulimu\source\repos\KA_21_2\Events01\obj\Debug\net5.0\Events01.csproj.AssemblyReference.cache

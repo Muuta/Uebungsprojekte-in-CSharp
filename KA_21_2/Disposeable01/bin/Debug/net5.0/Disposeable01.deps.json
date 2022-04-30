@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Disposeable01/1.0.0": {
+        "runtime": {
+          "Disposeable01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Disposeable01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

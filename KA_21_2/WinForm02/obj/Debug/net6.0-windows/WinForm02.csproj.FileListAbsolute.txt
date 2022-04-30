@@ -1,0 +1,17 @@
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\bin\Debug\net6.0-windows\WinForm02.exe
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\bin\Debug\net6.0-windows\WinForm02.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\bin\Debug\net6.0-windows\WinForm02.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\bin\Debug\net6.0-windows\WinForm02.dll
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\bin\Debug\net6.0-windows\ref\WinForm02.dll
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\bin\Debug\net6.0-windows\WinForm02.pdb
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.csproj.AssemblyReference.cache
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.Form1.resources
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.csproj.GenerateResource.cache
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.dll
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\ref\WinForm02.dll
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.pdb
+C:\Users\ulimu\source\repos\KA_21_2\WinForm02\obj\Debug\net6.0-windows\WinForm02.genruntimeconfig.cache

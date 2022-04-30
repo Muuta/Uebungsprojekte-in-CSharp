@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a449e72f-533a-43f9-a0cd-e6ea0ab27595": {
+      "ProjectGuid": "a449e72f-533a-43f9-a0cd-e6ea0ab27595",
+      "DisplayName": "Lotto",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

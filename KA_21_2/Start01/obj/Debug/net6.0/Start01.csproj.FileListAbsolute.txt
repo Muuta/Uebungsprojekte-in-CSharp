@@ -1,0 +1,15 @@
+C:\Users\ulimu\source\repos\KA_21_2\Start01\bin\Debug\net6.0\Start01.exe
+C:\Users\ulimu\source\repos\KA_21_2\Start01\bin\Debug\net6.0\Start01.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\Start01\bin\Debug\net6.0\Start01.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\Start01\bin\Debug\net6.0\Start01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Start01\bin\Debug\net6.0\ref\Start01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Start01\bin\Debug\net6.0\Start01.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.csproj.AssemblyReference.cache
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\ref\Start01.dll
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Start01\obj\Debug\net6.0\Start01.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.csproj.AssemblyReference.cache
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\Übung_Exception.exe
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\Übung_Exception.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\Übung_Exception.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\Übung_Exception.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\Übung_Exception.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\ref\Übung_Exception.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\bin\Debug\net5.0\Übung_Exception.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\ref\Übung_Exception.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Exception\obj\Debug\net5.0\Übung_Exception.genruntimeconfig.cache

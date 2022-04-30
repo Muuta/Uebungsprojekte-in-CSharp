@@ -1,0 +1,12 @@
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\bin\Debug\net5.0\DatenGenerator.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\bin\Debug\net5.0\DatenGenerator.dll
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\bin\Debug\net5.0\ref\DatenGenerator.dll
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\bin\Debug\net5.0\DatenGenerator.pdb
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.dll
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\ref\DatenGenerator.dll
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.pdb
+C:\Users\ulimu\source\repos\KA_21_2\DatenGenerator\obj\Debug\net5.0\DatenGenerator.csproj.AssemblyReference.cache

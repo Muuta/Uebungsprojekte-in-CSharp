@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Linq02/1.0.0": {
+        "dependencies": {
+          "DatenGenerator": "1.0.0"
+        },
+        "runtime": {
+          "Linq02.dll": {}
+        }
+      },
+      "DatenGenerator/1.0.0": {
+        "runtime": {
+          "DatenGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatenGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

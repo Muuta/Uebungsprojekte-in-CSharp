@@ -1,0 +1,15 @@
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\Übung_Delegaten.exe
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\Übung_Delegaten.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\Übung_Delegaten.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\Übung_Delegaten.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\Übung_Delegaten.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\ref\Übung_Delegaten.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\bin\Debug\net5.0\Übung_Delegaten.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\ref\Übung_Delegaten.dll
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Übung_Delegaten\obj\Debug\net5.0\Übung_Delegaten.genruntimeconfig.cache

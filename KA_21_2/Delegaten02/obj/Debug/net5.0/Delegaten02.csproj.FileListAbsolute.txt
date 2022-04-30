@@ -1,0 +1,15 @@
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\Delegaten02.exe
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\Delegaten02.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\Delegaten02.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\Delegaten02.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\Delegaten02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\ref\Delegaten02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\bin\Debug\net5.0\Delegaten02.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\ref\Delegaten02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Delegaten02\obj\Debug\net5.0\Delegaten02.genruntimeconfig.cache

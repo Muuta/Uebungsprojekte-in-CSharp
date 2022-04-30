@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a50b35ca-2e96-4f75-bdac-1e4b9c540d40": {
+      "ProjectGuid": "a50b35ca-2e96-4f75-bdac-1e4b9c540d40",
+      "DisplayName": "Start01",
+      "ColorIndex": 0
+    },
+    "88d4bac6-d42a-4fca-982f-bfdd3adf8096": {
+      "ProjectGuid": "88d4bac6-d42a-4fca-982f-bfdd3adf8096",
+      "DisplayName": "Start01b",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    },
+    "0fc4be61-576c-4a4d-be71-a04372c5924d": {
+      "ProjectGuid": "0fc4be61-576c-4a4d-be71-a04372c5924d",
+      "DisplayName": "Exceptions02",
+      "ColorIndex": 2
+    },
+    "31909fb4-e6b1-49ad-b121-7c7efa21fa24": {
+      "ProjectGuid": "31909fb4-e6b1-49ad-b121-7c7efa21fa24",
+      "DisplayName": "Übung_Exception",
+      "ColorIndex": 3
+    },
+    "48e53020-90f8-4fdd-9c43-edfea4594010": {
+      "ProjectGuid": "48e53020-90f8-4fdd-9c43-edfea4594010",
+      "DisplayName": "BubbleSort",
+      "ColorIndex": 4
+    },
+    "90abab65-1ee2-4025-b756-cc6ff8d59391": {
+      "ProjectGuid": "90abab65-1ee2-4025-b756-cc6ff8d59391",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 5
+    },
+    "6a2bcb46-906f-455d-b0b0-bc88751f3028": {
+      "ProjectGuid": "6a2bcb46-906f-455d-b0b0-bc88751f3028",
+      "DisplayName": "Delegaten01",
+      "ColorIndex": 6
+    },
+    "2f42e2fc-ce0c-45b5-b67e-2e9b1bf2d48d": {
+      "ProjectGuid": "2f42e2fc-ce0c-45b5-b67e-2e9b1bf2d48d",
+      "DisplayName": "Delegaten02",
+      "ColorIndex": 7
+    },
+    "2f7f9056-0d4c-4d17-a68c-ddf060c541d5": {
+      "ProjectGuid": "2f7f9056-0d4c-4d17-a68c-ddf060c541d5",
+      "DisplayName": "Delegaten03",
+      "ColorIndex": 8
+    },
+    "20558dbb-74e8-4de7-9423-add2df44e91a": {
+      "ProjectGuid": "20558dbb-74e8-4de7-9423-add2df44e91a",
+      "DisplayName": "Übung_Delegaten",
+      "ColorIndex": 9
+    },
+    "466770ab-b4dd-434c-a76d-d69a3f0a91a8": {
+      "ProjectGuid": "466770ab-b4dd-434c-a76d-d69a3f0a91a8",
+      "DisplayName": "Events01",
+      "ColorIndex": 10
+    },
+    "135e1dc7-00db-484a-8ca1-02e0a11137e9": {
+      "ProjectGuid": "135e1dc7-00db-484a-8ca1-02e0a11137e9",
+      "DisplayName": "Events02",
+      "ColorIndex": 11
+    },
+    "3aa56c29-34a0-4f64-b992-c67955ec8ebd": {
+      "ProjectGuid": "3aa56c29-34a0-4f64-b992-c67955ec8ebd",
+      "DisplayName": "WinForm01",
+      "ColorIndex": 12
+    },
+    "0612515b-2c3e-4908-9a93-e96b5bfdfb24": {
+      "ProjectGuid": "0612515b-2c3e-4908-9a93-e96b5bfdfb24",
+      "DisplayName": "Taschenrechner",
+      "ColorIndex": 13
+    },
+    "e9138fef-e692-48a5-a941-d69b011bb1fb": {
+      "ProjectGuid": "e9138fef-e692-48a5-a941-d69b011bb1fb",
+      "DisplayName": "WinForm02",
+      "ColorIndex": 14
+    },
+    "7d3319c4-0b90-4167-b8fe-8acc679628c4": {
+      "ProjectGuid": "7d3319c4-0b90-4167-b8fe-8acc679628c4",
+      "DisplayName": "Disposeable01",
+      "ColorIndex": 15
+    },
+    "ddb2d873-d9e6-4109-943a-04ba6310ee93": {
+      "ProjectGuid": "ddb2d873-d9e6-4109-943a-04ba6310ee93",
+      "DisplayName": "LINQ01",
+      "ColorIndex": 0
+    },
+    "7c1dce39-c5f7-4a32-bfd7-da6da895aceb": {
+      "ProjectGuid": "7c1dce39-c5f7-4a32-bfd7-da6da895aceb",
+      "DisplayName": "DatenGenerator",
+      "ColorIndex": 1
+    },
+    "664d2288-93fc-4493-9628-aa5ad0c20e27": {
+      "ProjectGuid": "664d2288-93fc-4493-9628-aa5ad0c20e27",
+      "DisplayName": "Linq02",
+      "ColorIndex": 2
+    },
+    "ac53a64e-5594-4e52-89a2-da3c5fd11311": {
+      "ProjectGuid": "ac53a64e-5594-4e52-89a2-da3c5fd11311",
+      "DisplayName": "Übung_Wetterdaten",
+      "ColorIndex": 3
+    },
+    "20263ec4-d981-4d06-9717-4efdb1571824": {
+      "ProjectGuid": "20263ec4-d981-4d06-9717-4efdb1571824",
+      "DisplayName": "XML01",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

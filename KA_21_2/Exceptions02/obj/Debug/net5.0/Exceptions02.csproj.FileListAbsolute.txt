@@ -1,0 +1,16 @@
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\Exceptions02.exe
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\Exceptions02.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\Exceptions02.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\Exceptions02.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\Exceptions02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\ref\Exceptions02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\bin\Debug\net5.0\Exceptions02.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.csproj.AssemblyReference.cache
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\ref\Exceptions02.dll
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.pdb
+C:\Users\ulimu\source\repos\KA_21_2\Exceptions02\obj\Debug\net5.0\Exceptions02.genruntimeconfig.cache

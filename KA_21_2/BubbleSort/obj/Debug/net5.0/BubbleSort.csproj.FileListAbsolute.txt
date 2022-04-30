@@ -1,0 +1,16 @@
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
+C:\Users\ulimu\source\repos\KA_21_2\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.AssemblyReference.cache
