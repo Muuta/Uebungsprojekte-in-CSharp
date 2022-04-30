@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- DOCTYPE beschreibt ein XML-Dokument -->
+<!-- Alternativ gibt es noch XML-Schemata -->
+<!DOCTYPE Personenliste [
+	<!ELEMENT Personenliste (Person+, Mitarbeiter*, Kunde*)>
+	<!ELEMENT Person (#PCDATA)>
+	<!ELEMENT Mitarbeiter (Gehalt?)>
+	<!ELEMENT Kunde (#PCDATA)>
+	<!ELEMENT Gehalt (#PCDATA)>
+	<!ATTLIST Person Id CDATA ""
+					 Vorname CDATA ""
+					 Nachname CDATA ""
+	>
+]>
+<Personenliste>
+	<Person Id="1" Vorname ="Kurt" Nachname="Maier"/>
+	<Person Id="1" />
+	<Person Id="1" />
+	<Mitarbeiter>
+		<Gehalt>2000</Gehalt>
+	</Mitarbeiter>
+	<Mitarbeiter />
+	<Mitarbeiter />
+	<Kunde >dfgsdfgdsfgdsfg</Kunde>
+	<Kunde />
+	<Kunde />
+	<Kunde />
+</Personenliste>

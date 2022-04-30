@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Immer ein Hauptelement -->
+<Personenliste>
+	<Person Id="1" Vorname="Hans" Nachname="Maier" />
+	<Person Id="2" Vorname="Hans" Nachname="Schmitt" />
+	<Object> &gt; &lt; </Object>
+</Personenliste>
+
+ 

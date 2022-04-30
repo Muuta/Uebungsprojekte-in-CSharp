@@ -1,0 +1,17 @@
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\uebung3.xml
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\XML01.exe
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\XML01.deps.json
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\XML01.runtimeconfig.json
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\XML01.runtimeconfig.dev.json
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\XML01.dll
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\ref\XML01.dll
+C:\Users\ulimu\source\repos\KA_21_2\XML01\bin\Debug\net5.0\XML01.pdb
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.csproj.AssemblyReference.cache
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.AssemblyInfoInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.AssemblyInfo.cs
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.csproj.CoreCompileInputs.cache
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.dll
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\ref\XML01.dll
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.pdb
+C:\Users\ulimu\source\repos\KA_21_2\XML01\obj\Debug\net5.0\XML01.genruntimeconfig.cache

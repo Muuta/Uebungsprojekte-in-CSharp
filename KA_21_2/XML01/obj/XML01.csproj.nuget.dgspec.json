@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\Taschenrechner\\Taschenrechner.csproj": {}
+    "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\XML01\\XML01.csproj": {}
   },
   "projects": {
-    "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\Taschenrechner\\Taschenrechner.csproj": {
+    "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\XML01\\XML01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\Taschenrechner\\Taschenrechner.csproj",
-        "projectName": "Taschenrechner",
-        "projectPath": "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\Taschenrechner\\Taschenrechner.csproj",
+        "projectUniqueName": "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\XML01\\XML01.csproj",
+        "projectName": "XML01",
+        "projectPath": "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\XML01\\XML01.csproj",
         "packagesPath": "C:\\Users\\sasch\\.nuget\\packages\\",
-        "outputPath": "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\Taschenrechner\\obj\\",
+        "outputPath": "E:\\Schule\\Anwendungsentwicklung\\lutz\\Vertiefung\\Müller\\2022-03-25\\KA_21_2\\XML01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -56,9 +56,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
